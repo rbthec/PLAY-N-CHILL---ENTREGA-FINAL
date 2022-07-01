@@ -1,0 +1,6 @@
+    "build-css": "node-sass --include-path scss scss/estilosindex/estilo.scss css/estilo.css", 
+    "build-css": "node-sass --include-path scss scss/estilospc/estilospc.scss css/estilospc.css", 
+    "build-css": "node-sass --include-path scss scss/estilosxbox/estilosxbox.scss css/estilosxbox.css",
+    "build-css": "node-sass --include-path scss scss/estilosps5/estilosps5.scss css/estilosps5.css",
+    "build-css": "node-sass --include-path scss scss/estilosvr/estilosvr.scss css/estilosvr.css",
+    "build-css": "node-sass --include-path scss scss/contacto/estiloscontacto.scss css/estiloscontacto.css",,
